@@ -2,6 +2,6 @@
 
 Assignments and readings from the systems class
 
-<h1>Assignment 1</h1>
-<h1>Assignment 2</h1>
-<h1>Assignment 3</h1>
+<h2>Assignment 1</h2>
+<h2>Assignment 2</h2>
+<h2>Assignment 3</h2>
